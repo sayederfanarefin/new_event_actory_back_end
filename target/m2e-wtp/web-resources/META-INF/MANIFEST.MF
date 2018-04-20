@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: com-sweetitech-tigers
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Sayed Erfan Arefin
+Implementation-Vendor-Id: com.sweetitech.tigers
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/com-sweetite
+ ch-tigers/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
